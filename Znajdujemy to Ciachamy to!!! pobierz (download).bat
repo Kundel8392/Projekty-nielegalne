@@ -1,15 +1,15 @@
-@echo off                                                                             Znajdujemy to, Ciachamy to
+@echo off                                                                             echo Znajdujemy to, Ciachamy to
 Color 0A
 echo Witaj to aplikacja ktura pozwala pozbyc sie dowolnej osoby:)
 echo Obok wpisz ID ofiary:)
 
-                                                                                                                   Dodatkowe informacje:
-                                                                                                                    Adres gamil lub numer telefonu:
+                                                                                                                  echo Dodatkowe informacje:
+                                                                                                                   echo Adres gamil lub numer telefonu:
                                                                                                                      Wiek lub Rocznik:
-                                                                                                                      Adres zamieszkania:
-                                                                                                                      Haslo:
+                                                                                                                     echo Adres zamieszkania:
+                                                                                                                    echo Haslo:
 
-                                                                                                                       Po wypelnieniu kliknij gotowe to osoba z twego opisu zostanie szybko wyeleminowana:)
+                                                                                                                        echo Po wypelnieniu kliknij gotowe to osoba z twego opisu zostanie szybko wyeleminowana:)
 echo Kolor oczu:
 echo Kolor wlosuw:
 echo Kolor skury:
@@ -19,4 +19,4 @@ echo Imie i nazwisko:
 
 
 
-                                                                                                                                                                                          Gotowe
+                                                                                                                                                                                        echo Gotowe
