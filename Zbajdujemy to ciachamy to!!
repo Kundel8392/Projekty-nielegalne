@@ -1,4 +1,4 @@
-@echo off                                                                             Znajdujemy to, Ciachamy to
+@echo off
 Color 0A
 echo Witaj to aplikacja ktura pozwala pozbyc sie dowolnej osoby:)
 echo Obok wpisz ID ofiary:)
