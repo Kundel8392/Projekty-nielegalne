@@ -3,13 +3,10 @@ Color 0A
 echo Witaj to aplikacja ktura pozwala pozbyc sie dowolnej osoby:)
 echo Obok wpisz ID ofiary:)
 
-                                                                                                                   Dodatkowe informacje:
-                                                                                                                    Adres gamil lub numer telefonu:
-                                                                                                                     Wiek lub Rocznik:
-                                                                                                                      Adres zamieszkania:
-                                                                                                                      Haslo:
-
-                                                                                                                       Po wypelnieniu kliknij gotowe to osoba z twego opisu zostanie szybko wyeleminowana:)
+echo Gdy wypelnisz ankiete to kliknij gotowe to dane o osobie zostanom zapisane!                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                    
+echo Wpisz informacje o osobie:
+                                                          
 echo Kolor oczu:
 echo Kolor wlosuw:
 echo Kolor skury:
@@ -17,6 +14,8 @@ echo zachowanie:
 echo miejsce pracy/zamieszkania:
 echo Imie i nazwisko:
 
-
-
-                                                                                                                                                                                          Gotowe
+echo Dodatkowe informacje:
+echo Adres gmail lub numer telefonu:
+echo Wiek lub Rocznik:
+echo Adres zamieszkania:
+echo gotowe
