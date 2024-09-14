@@ -1,16 +1,15 @@
-@echo off                                                                             echo Znajdujemy to, Ciachamy to
+@echo off                                                                             
 Color 0A
-echo Witaj to aplikacja ktura pozwala pozbyc sie dowolnej osoby:)
+echo Witaj to aplikacja ktura pozwala pozbyc sie dowolnej osoby:)               Wpisz pole ofiary
 echo Obok wpisz ID ofiary:)
 
-                                                                                                                  echo Dodatkowe informacje:
-                                                                                                                   echo Adres gamil lub numer telefonu:
+                                                                                                                  echo Dodatkowe informacje:                                                                                                                 echo Adres gamil lub numer telefonu:
                                                                                                                     echo Wiek lub Rocznik:
                                                                                                                      echo Adres zamieszkania:
                                                                                                                     echo Haslo:
 
                                                                                                                         echo Po wypelnieniu kliknij gotowe to osoba z twego opisu zostanie szybko wyeleminowana:)
-echo Kolor oczu:
+echo kim ona dla ciebie jest?:
 echo Kolor wlosuw:
 echo Kolor skury:
 echo zachowanie:
