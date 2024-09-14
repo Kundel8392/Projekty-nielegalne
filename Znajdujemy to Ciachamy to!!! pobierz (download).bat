@@ -5,7 +5,7 @@ echo Obok wpisz ID ofiary:)
 
                                                                                                                   echo Dodatkowe informacje:
                                                                                                                    echo Adres gamil lub numer telefonu:
-                                                                                                                     Wiek lub Rocznik:
+                                                                                                                    echo Wiek lub Rocznik:
                                                                                                                      echo Adres zamieszkania:
                                                                                                                     echo Haslo:
 
